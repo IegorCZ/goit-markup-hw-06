@@ -61,12 +61,12 @@ body{
 }
 .menu-link:hover,
 .menu-link:focus{
-    color: #9747FF;
+   
     color: #404bbf;
 }
 .contact-list-link:hover,
 .contact-list-link:focus{
-    color: #9747FF;
+   
     color: #404bbf;
 }
 .page-navigation{
